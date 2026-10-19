@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="Arial, Helvetica, sans-serif">
+  <rect width="800" height="450" fill="#e3f2fd"/>
+  <rect y="390" width="800" height="60" fill="#8d6e63"/>
+  <g stroke="#f9a825" stroke-width="5" stroke-linecap="round">
+    <line x1="90" y1="20" x2="90" y2="45"/><line x1="25" y1="85" x2="50" y2="85"/>
+    <line x1="45" y1="40" x2="62" y2="57"/><line x1="135" y1="40" x2="118" y2="57"/>
+    <line x1="45" y1="130" x2="62" y2="113"/><line x1="135" y1="130" x2="118" y2="113"/>
+  </g>
+  <circle cx="90" cy="85" r="35" fill="#ffd54f"/>
+  <text x="90" y="160" text-anchor="middle" font-size="18" fill="#37474f">Luz solar</text>
+  <path d="M130 110L270 190" stroke="#f9a825" stroke-width="4" stroke-dasharray="10 8"/>
+  <rect x="385" y="230" width="14" height="165" fill="#5d4037"/>
+  <path d="M250 250C250 100 450 60 640 120C640 290 450 350 250 250Z" fill="#43a047" stroke="#1b5e20" stroke-width="3"/>
+  <path d="M250 250C350 215 520 170 630 125" stroke="#1b5e20" stroke-width="3" fill="none"/>
+  <text x="440" y="235" text-anchor="middle" font-size="20" fill="#ffffff" font-weight="bold">Folha</text>
+  <path d="M120 270L235 250" stroke="#37474f" stroke-width="4" marker-end="url(#a)"/>
+  <text x="120" y="300" font-size="18" fill="#263238">CO₂ (ar)</text>
+  <path d="M330 420L385 385" stroke="#1565c0" stroke-width="4" marker-end="url(#a)"/>
+  <text x="170" y="425" font-size="18" fill="#ffffff">H₂O (raízes)</text>
+  <path d="M600 150L700 90" stroke="#37474f" stroke-width="4" marker-end="url(#a)"/>
+  <text x="690" y="75" font-size="18" fill="#263238">O₂ (liberado)</text>
+  <text x="600" y="300" font-size="18" fill="#263238">Glicose (C₆H₁₂O₆)</text>
+  <text x="600" y="322" font-size="16" fill="#455a64">fica na planta</text>
+  <defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#37474f"/></marker></defs>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="600" height="400" font-family="Arial, Helvetica, sans-serif">
+  <rect width="600" height="400" fill="#f1f8e9"/>
+  <rect x="20" y="60" width="360" height="30" fill="#c5e1a5" stroke="#33691e" stroke-width="2"/>
+  <rect x="20" y="90" width="360" height="90" fill="#66bb6a" stroke="#33691e" stroke-width="2"/>
+  <rect x="20" y="180" width="360" height="110" fill="#a5d6a7" stroke="#33691e" stroke-width="2"/>
+  <rect x="20" y="290" width="360" height="30" fill="#c5e1a5" stroke="#33691e" stroke-width="2"/>
+  <g fill="#1b5e20">
+    <ellipse cx="50" cy="135" rx="13" ry="35"/><ellipse cx="95" cy="135" rx="13" ry="35"/><ellipse cx="140" cy="135" rx="13" ry="35"/>
+    <ellipse cx="185" cy="135" rx="13" ry="35"/><ellipse cx="230" cy="135" rx="13" ry="35"/><ellipse cx="275" cy="135" rx="13" ry="35"/>
+    <ellipse cx="320" cy="135" rx="13" ry="35"/><ellipse cx="360" cy="135" rx="10" ry="35"/>
+  </g>
+  <g fill="#2e7d32">
+    <circle cx="70" cy="215" r="14"/><circle cx="125" cy="250" r="14"/><circle cx="260" cy="215" r="14"/><circle cx="310" cy="255" r="14"/>
+  </g>
+  <circle cx="190" cy="235" r="26" fill="#fff3e0" stroke="#ef6c00" stroke-width="3"/>
+  <rect x="165" y="320" width="50" height="14" fill="#e8f5e9" stroke="#33691e" stroke-width="2"/>
+  <g font-size="15" fill="#1b2a1b">
+    <text x="400" y="80">Epiderme superior</text>
+    <text x="400" y="132">Parênquima</text><text x="400" y="150">paliçádico</text>
+    <text x="400" y="215">Parênquima</text><text x="400" y="233">lacunoso</text>
+    <text x="260" y="238" font-size="13">feixe vascular</text>
+    <text x="400" y="310">Epiderme inferior</text>
+    <text x="400" y="345">Estômato</text>
+  </g>
+  <text x="20" y="385" font-size="18" fill="#1b5e20" font-weight="bold">Corte transversal de uma folha (esquema)</text>
+</svg>
